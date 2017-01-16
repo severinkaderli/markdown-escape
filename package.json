@@ -1,0 +1,19 @@
+{
+  "name": "markdown-escape",
+  "version": "1.0.0",
+  "description": "Function that escapes string to be usable inside a markdown document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/severinkaderli/markdown-escape.git"
+  },
+  "author": "Severin Kaderli <severin.kaderli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/severinkaderli/markdown-escape/issues"
+  },
+  "homepage": "https://github.com/severinkaderli/markdown-escape#readme"
+}
